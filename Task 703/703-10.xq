@@ -9,7 +9,7 @@ return
       <tr>
         <td>{data($x/title)}</td>
         <td>{data($x/author)}</td>
-        <td>{data($x/year)}</td>
+        <td>{data($x/@price)}</td>
       </tr>
     }
     <tr>
