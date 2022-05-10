@@ -1,3 +1,15 @@
 Teoria del Tema 7:
 Aplication areas: Documents and XML data storage requirements grouped two categ.:
 -Data oriented: the XML doc. has well defined structure and contains data that can be updated.
+Comments XQuery: (: Comment :)
+Load docs: doc() -specific doc- and collection()
+Variables: identifies by $ and created by let. To create a variable with let we can use XPath secuessenly.
+Comparison: operators.
+Evaluable expressions: use {} inside XQuery. Return use {}, too.
+Create elements and attributes
+FLWOR expressions: for (reiterate a sequency)
+                   let (create values)
+                   where (find results by conditions)
+                   order by, descending 
+                   return
+API to gestionate doc from programming: SAX/DOM
